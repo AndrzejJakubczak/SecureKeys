@@ -5,12 +5,15 @@
 
 
 ## Technologies Used
-- HTML & CSS
 - ReactJS
 
 ## Features
 - The user can generate a random password.
 - The user can edit the generated password.
 - Custom symbols and password length.
+
+## Screenshots
+![Example screenshot](./img/securekeys.png)
+![Example screenshot](./img/securekeys2.png)  
 
 
