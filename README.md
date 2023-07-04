@@ -13,7 +13,7 @@
 - Custom symbols and password length
 
 ## Screenshots
-![Example screenshot](./img/securekeys.png)
-![Example screenshot](./img/securekeys2.png)  
+(./img/securekeys.png)
+(./img/securekeys2.png)  
 
 
