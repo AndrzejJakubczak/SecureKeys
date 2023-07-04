@@ -5,7 +5,7 @@
 
 
 ## Technologies Used
-- ReactJS
+- React.js
 
 ## Features
 - The user can generate a random password.
