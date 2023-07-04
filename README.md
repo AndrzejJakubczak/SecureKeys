@@ -8,9 +8,9 @@
 - React.js
 
 ## Features
-- The user can generate a random password.
-- The user can edit the generated password.
-- Custom symbols and password length.
+- The user can generate a random password
+- The user can edit the generated password
+- Custom symbols and password length
 
 ## Screenshots
 ![Example screenshot](./img/securekeys.png)
